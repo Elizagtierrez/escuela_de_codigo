@@ -32,3 +32,21 @@
 * 4 Proceso
 * 5 mostrar
 * 6 Fin
+
+
+#TAREA 1
+## Conociendo el lado de un cuadrado hacer un algoritmo que imprima el perimetro del cuadrado
+* 1 Inicio
+* 2 Declarar (lado_cuadrado)
+* 3 Asignar (lado_cuadrado, perimetro_cuadrado)
+* 4 perimetro_cuadrdo = lado_cuadrado * 4
+* 5 Fin
+
+
+# TAREA 2
+## Conociendo las 4 calificaciones de los cuatro periodos de un alumno imprimir su promedio
+* 1 Inicio
+* 2 Declarar (calificacion_1, calificacion_2, calificacion_3, calificacion_4)
+* 3 Asignar (calificacion_1, calificacion_2, calificacion_3, calificacion_4, Promedio)
+* 4 promedio = ((calificacion_1 + calificacion_2 + calificacion_3 + calificacion_4) / 4)
+* 5 Fin
