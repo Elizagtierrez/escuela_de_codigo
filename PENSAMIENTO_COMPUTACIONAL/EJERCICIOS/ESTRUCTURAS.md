@@ -6,12 +6,15 @@
 * 2 Declarar (numero)
 * 3 Mostrar "Ingresa numero"
 * 4 Asignar (numero)
-* 5 Si (numero <= 0) es positivo, sino es negativo
+* 5 Si (numero >= 0) es positivo, sino es negativo
 * 6 Mostrar "numero positivo"
 * 7 Mostrar "numero negativo"
 * 8 Fin
 
-* Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+* ![image](https://user-images.githubusercontent.com/90996552/160024954-709135a8-d870-41fa-8563-c553f84be330.png)
+
+
+*  Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 * 1 Inicio
 * 2 Declarar (letra)
 * 3 Mostrat "Ingrese letra"
@@ -20,6 +23,9 @@
 * 6 Muestra "n","s"
 * 7 Fin
 
+![image](https://user-images.githubusercontent.com/90996552/160026428-22899e30-a888-412a-9a37-6fb8003ad551.png)
+
+
 * Un programa que pida una letra y detecte si es una vocal. 
 * 1 Inicio
 * 2 Declarar (letra)
@@ -27,14 +33,19 @@
 * 4 Asignar (letra)
 * 5 Si (letra es "a","e","i","o","u") muestra "vocal", sino no muestra nada
 * 6 Fin
-multiple
+
+![image](https://user-images.githubusercontent.com/90996552/160028205-57ebfd94-f768-4df7-87fa-dbb8668a935b.png)
+
+
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor. 
 * 1 Inicio
-* 2 Declarar (numero1, numero2, numero3)
+* 2 Declarar (num1, numero2, numero3)
 * 3 Mostrar "Ingresa número1","número2","número3"
-* 4 Asignar (numero1,numero2,numero3)
-* Si (numero1 > numero2) entones va primero numero1, si (numero2 > 
-compararlos, relacion  
+* 4 Asignar (num1,num2,num3)
+* 5 Si (num1 < num2) entonces num1 es el menor mostrar primero "num1", sino el menor es num3 entonces mostrar primero "num3", sino (num2 < num3) entonces num2 es el menor mostrar primero "num2", Si (num1 > num2) entonces num1 es el mayor mostrar al útimo "num1", sino el mayor es num3 entonces mostrar al último "num3", sino (num2 > num3) entonces num2 es el mayor mostrar al último "num2", si (num1<num2<num3) entonces mostrar en segundo a num2, sino mostrar en segundo a "num3", sino (num3<num2<num1) entonces mostrar en segundo a "num1" 
+* 6 Fin
+
+
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 opcion multiple
