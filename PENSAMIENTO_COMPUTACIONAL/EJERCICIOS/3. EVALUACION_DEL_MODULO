@@ -18,3 +18,18 @@ FinProceso
 
 Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
 Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener la edad promedio de un grupo de N alumnos.
+
+Proceso calificacion
+	Escribir 'Ingresa calificacion'
+	Leer cal
+	Si cal>=1.0 Y cal<=7 Entonces
+		Si cal>=4.0 Entonces
+			Escribir 'Aprobado'
+		SiNo
+			Escribir 'Reprobado'
+		FinSi
+	SiNo
+		Escribir 'Dato incorrecto'
+	FinSi
+FinProceso
+
