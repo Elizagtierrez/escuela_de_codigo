@@ -17,3 +17,8 @@ Utilizando una herramienta llamada Miro, crearemos nuestro público objetivo
 ![image](https://user-images.githubusercontent.com/91554777/161871996-34895938-93cc-47e9-83f5-f431c8652de6.png)
 
 Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objetivo/
+
+## UI
+Usando la herramienta https://balsamiq.cloud/ realizamos nuestro wireframe --> PLANTILLA
+
+https://balsamiq.cloud/s1uwxqf/pth4vs3/rE39C
