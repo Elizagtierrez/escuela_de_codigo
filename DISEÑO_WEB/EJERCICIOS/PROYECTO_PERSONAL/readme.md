@@ -13,6 +13,7 @@ Llenado del formato del requerimiento
 
 Formato para elaborar nuestra persona buyer
 
+![image](https://user-images.githubusercontent.com/90996552/162357270-3a523bd5-dde4-46bf-bd63-62fa3607dd5d.png)
 
 
 Público objetivo 
